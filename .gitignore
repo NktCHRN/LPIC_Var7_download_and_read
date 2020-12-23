@@ -15,5 +15,6 @@
 tests.txt
 
 # files, created by the program
-./Downloads/*
+/Downloads/**
+
 ~                    
