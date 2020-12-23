@@ -2,7 +2,7 @@ Variant 7
 
 ###
 
-This program downloads file from web-server to $file. Then, it prints first 11 lines of the file. Initially, the script takes the file from https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md and saves it to file.txt in folder with program. If you want to change something of these, just change the values of variables file or/and link.
+This program downloads file from web-server to $file. Then, it prints first 11 lines of the file. Initially, the script takes the file from https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md and saves it to $folder. If you want to change something of these, just change the values of variables file, link or/and folder.
 
 ###
 To run this program, type 

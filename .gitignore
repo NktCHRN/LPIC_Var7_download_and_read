@@ -14,6 +14,6 @@
 # files for testing the program
 tests.txt
 
-# file, created by the program
-file.txt
+# files, created by the program
+./Downloads/*
 ~                    
